@@ -1,0 +1,12 @@
+# Modulos de Node
+node_modules/
+
+# Variables de entorno
+.env.development
+.env.production
+
+# Archivos viejos
+views.obsoletas.js
+
+#Logs
+logs
